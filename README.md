@@ -4,9 +4,9 @@
 In preparation for the Azure Administrator Certification exam (AZ-104), I've been actively utilizing the Azure Cloud Platform to deepen my understanding of key administration tasks. Here are the tasks I have completed so far and will update and add more in the future once I finish more practices.
 
 ## Key Accomplishments
-- **Virtual Machine Deployment**:
-  - Deployed Windows Server 2022 and Ubuntu Linux Server VMs in Azure.
-  - Connected to Azure VMs from a local host using RDP and SSH (via CLI and PuTTY).
+ **Virtual Machine Deployment**:
+   Deployed Windows Server 2022 and Ubuntu Linux Server VMs in Azure.
+   Connected to Azure VMs from a local host using RDP and SSH (via CLI and PuTTY).
   
 - **Web Server Configuration**:
   - Installed and configured IIS on a Windows Server VM to host a web server.
